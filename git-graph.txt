@@ -1,4 +1,11 @@
-* 80dccec (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* dd8475f (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* f4d2413 docs: Add developer notes
+* d84b0f7 docs: Add Git journey documentation
+* cefb4f4 chore: Update app config and deployment script
+* acbd5e9 chore: Add .gitignore for Node.js project
+* ce40cf5 docs: Add troubleshooting section
+* feaf195 docs: Add final project artifacts
+* 80dccec docs: Add changelog
 | * b562044 (feature/another-feature) Bad commit
 |/  
 | * c9da313 (origin/feature/another-feature) feat: Add test feature
