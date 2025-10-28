@@ -68,3 +68,5 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+"feature_flags:\n  ai_analysis: false" 
+"project_maintainer: Madhukar Muthareddy" 

@@ -116,3 +116,4 @@ case "$DEPLOY_ENV" in
 esac
 
 echo "Deployment completed successfully!"
+"# NOTE: Ensure environment variables are properly configured before deployment" 
