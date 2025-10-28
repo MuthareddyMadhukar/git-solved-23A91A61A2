@@ -35,3 +35,5 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 export DEPLOY_ENV=production
 "## FAQ" 
 "update" 
+"## Troubleshooting" 
+"If deployment fails, check logs in /scripts directory." 
